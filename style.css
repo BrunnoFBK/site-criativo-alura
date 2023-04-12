@@ -11,4 +11,15 @@ header{
 width: 60% ;
 
 }
+.cabecalho-item1 {
 
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+.cabecalho-item2 {
+
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
