@@ -31,12 +31,24 @@ width: 60% ;
     align-items:center;
     padding:90px 0;
 }
+.escola-texto1{
+    font-family: 'Oswald', sans-serif;
+
+}
+.escola-texto2{
+    font-family: 'Oswald', sans-serif;
+}
 .escola-titulo{
     font-family: 'Satisfy', cursive;
-    font-size: 300%;
-    ;
-  
+    font-size: 250%;
+    text-align:center ;
 }
+.escola-conteudo-div{
+
+        width: 35%;
+   
+}
+
 .foto-colegio{
   width:25% ;
   
