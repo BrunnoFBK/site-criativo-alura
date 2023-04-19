@@ -1,10 +1,10 @@
 header{
-    background-color:#383D58;
+    background-image:linear-gradient(#000000,#2e2f30);
     color: white;
     display: flex;
     justify-content:space-around;
     align-items: center;
-    padding:24px 0;
+    padding: 6px; ;
 }
 
 .logo-cabecalho{
@@ -12,25 +12,42 @@ width: 60% ;
 
 }
 .cabecalho-item1 {
-
+    font-family: 'Oswald', sans-serif;
     display: inline-block;
     margin: 0 16px;
     font-size: 20px;
 }
 .cabecalho-item2 {
-
+    font-family: 'Oswald', sans-serif;
     display: inline-block;
     margin: 0 16px;
     font-size: 20px;
 }
 .escola{
-    background-color:#383D58;
+    background-image:linear-gradient(#424E61,#16CFF8);
     color: white;
     display:flex;
     justify-content:space-around;
     align-items:center;
     padding:90px 0;
 }
+.escola-titulo{
+    font-family: 'Satisfy', cursive;
+    font-size: 300%;
+    ;
+  
+}
 .foto-colegio{
-  width: ;
+  width:25% ;
+  
+}
+.estudante{
+    padding: 90px;
+    background-image:linear-gradient(#16CFF8,#424E61);
+    color: white;
+    
+}
+.estudante-titulo{
+  font-family: 'Satisfy', cursive;
+  font-size: 250%;
 }
