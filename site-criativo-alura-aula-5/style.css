@@ -78,4 +78,12 @@ body {
     
     
 }
-
+.rodape{
+    text-align: center;
+    background-color: black;
+}
+.rodape-imagem{
+    width: 20%;
+    padding: 12px 0;
+    
+}
